@@ -8,8 +8,8 @@
     <?= $this->Html->link(__('New Local'), ['action' => 'add'], ['class' => 'button float-right']) ?>
     <h3><?= __('Locals') ?></h3>
     <div class="table-responsive">
-        <table>
-            <thead>
+        <table class="table table-hover table-condensed table-bordered">
+            <thead class="thead-light">
                 <tr>
                     <th><?= $this->Paginator->sort('ID') ?></th>
                     <th><?= $this->Paginator->sort('Name') ?></th>
@@ -33,14 +33,20 @@
             </tbody>
         </table>
     </div>
-    <div class="paginator">
+
+    <div class="pagination pagination-large">
         <ul class="pagination">
-            <?= $this->Paginator->first('<< ' . __('first')) ?>
-            <?= $this->Paginator->prev('< ' . __('previous')) ?>
-            <?= $this->Paginator->numbers() ?>
-            <?= $this->Paginator->next(__('next') . ' >') ?>
-            <?= $this->Paginator->last(__('last') . ' >>') ?>
+            <?php
+                echo $this->Paginator->prev(__('prev'), array('tag' => 'li'), null, array('tag' => 'li','class' => 'disabled','disabledTag' => 'a'));
+                echo $this->Paginator->numbers(array('separator' => '','currentTag' => 'a', 'currentClass' => 'active','tag' => 'li','first' => 1));
+                echo $this->Paginator->next(__('next'), array('tag' => 'li','currentClass' => 'disabled'), null, array('tag' => 'li','class' => 'disabled','disabledTag' => 'a'));
+            ?>
         </ul>
-        <p><?= $this->Paginator->counter(__('Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total')) ?></p>
     </div>
+
+
+
+    <p><?= $this->Paginator->counter(__('Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total')) ?>
+    </p>
+
 </div>
