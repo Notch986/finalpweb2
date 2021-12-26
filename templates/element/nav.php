@@ -30,17 +30,19 @@
                         <li class="nav-item">
                             <a class="nav-link" href="about.html"> Acerca de </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="service.html">Proveedores</a>
-                        </li>
+
                         <li class="nav-item">
                             <a class="nav-link" href="contact.html">Contáctate</a>
                         </li>
-                        <form class="form-inline">
-                            <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
-                                <i class="fa fa-search" aria-hidden="true"></i>
-                            </button>
-                        </form>
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="contact.html">Registrate</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="service.html">Administrador</a>
+                        </li>
                     </ul>
                 </div>
             </nav>

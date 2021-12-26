@@ -43,13 +43,14 @@
     <?= $this->Html->css('responsive') ?>
     <!-- <link href="css/responsive.css" rel="stylesheet" /> -->
 
+
+    <?= $this->Html->meta('img/favicon.ico','img/favicon.ico', ['type' => 'icon']
+) ?>
 </head>
 
 <body>
 
     <?= $this->element('nav'); ?>
-
-
 
     <?= $this->fetch('content'); ?>
 
