@@ -3,7 +3,7 @@
  * @var \App\View\AppView $this
  * @var \Cake\Datasource\EntityInterface[]|\Cake\Collection\CollectionInterface $users
  */
-    $this->element('nav');
+
 ?>
 <div class="users index content">
     <?= $this->Html->link(__('New User'), ['action' => 'add'], ['class' => 'button float-right']) ?>

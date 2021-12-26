@@ -6,8 +6,7 @@
         public function home (){
             
             $this->viewBuilder()->setLayout('blog');
+            //echo "ctm be";
         }
         
     }
-
-   

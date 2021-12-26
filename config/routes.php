@@ -56,7 +56,8 @@ $routes->scope('/', function (RouteBuilder $builder) {
         $builder->connect('/ajax-edit-provider', ['controller' => 'Ajax', 'action' => 'ajaxEditProvider']);
         $builder->connect('/ajax-delete-provider', ['controller' => 'Ajax', 'action' => 'ajaxDeleteProvider']);
     
-    $builder->connect('/', ['controller' => 'Pages', 'action' => 'display', 'home']);
+    //$builder->connect('/', ['controller' => 'Pages', 'action' => 'display', 'home']);
+    $builder->connect('/', ['controller' => 'Blogs', 'action' => 'home']);
 
     /*
      * ...and connect the rest of 'Pages' controller's URLs.

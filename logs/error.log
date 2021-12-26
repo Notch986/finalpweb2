@@ -18103,3 +18103,654 @@ Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
 Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
 [main] - ROOT\webroot\index.php, line 40
 
+2021-12-26 15:41:19 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:41:19 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:41:20 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:41:22 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:41:22 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:41:23 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:41:54 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:41:54 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:41:54 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:46:00 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:46:00 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:46:00 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:48:41 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:48:41 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 15:48:42 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 16:33:03 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 16:33:03 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 16:33:03 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 16:33:08 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 16:33:08 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 16:33:09 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
