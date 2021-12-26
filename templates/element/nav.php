@@ -41,7 +41,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="service.html">Administrador</a>
+                            <a class="nav-link" href="admin">Administrador</a>
                         </li>
                     </ul>
                 </div>

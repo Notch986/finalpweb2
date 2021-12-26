@@ -21059,3 +21059,2303 @@ Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
 Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
 
 
+2021-12-26 17:03:42 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:03:43 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:03:43 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:03:47 Error: [Cake\Http\Exception\MissingControllerException] Controller class Index.html could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Index.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:211
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:63
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /index.html
+Referer URL: http://localhost/cakephp-test/?
+
+
+2021-12-26 17:03:50 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:03:50 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:03:50 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:04:42 Error: [Cake\Http\Exception\MissingControllerException] Controller class Service.html could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Service.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:211
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:63
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /service.html
+Referer URL: http://localhost/cakephp-test/?
+
+
+2021-12-26 17:05:44 Error: [Cake\Http\Exception\MissingControllerException] Controller class Service.html could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Service.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:211
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:63
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /service.html
+Referer URL: http://localhost/cakephp-test/?
+
+
+2021-12-26 17:05:46 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:05:46 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:05:47 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:05:47 Error: [Cake\Http\Exception\MissingControllerException] Controller class Users could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /Users
+Referer URL: http://localhost/cakephp-test/?
+
+
+2021-12-26 17:05:59 Error: [Cake\Http\Exception\MissingControllerException] Controller class Users could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /Users
+Referer URL: http://localhost/cakephp-test/?
+
+
+2021-12-26 17:06:04 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:04 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:04 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:05 Error: [Cake\Http\Exception\MissingControllerException] Controller class Admin could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Admin',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /Admin/Users
+Referer URL: http://localhost/cakephp-test/?
+
+
+2021-12-26 17:06:23 Error: [Cake\Http\Exception\MissingControllerException] Controller class Admin could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Admin',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /Admin/Users
+Referer URL: http://localhost/cakephp-test/?
+
+
+2021-12-26 17:06:25 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:26 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:26 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:26 Error: [Cake\Http\Exception\MissingControllerException] Controller class Admin could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Admin',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /Admin
+Referer URL: http://localhost/cakephp-test/?
+
+
+2021-12-26 17:06:38 Error: [Cake\Http\Exception\MissingControllerException] Controller class Admin could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Admin',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /Admin
+Referer URL: http://localhost/cakephp-test/?
+
+
+2021-12-26 17:06:40 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:40 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:40 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:41 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:42 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:42 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:44 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:44 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:06:45 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 17:23:05 Error: [Cake\Http\Exception\MissingControllerException] Controller class Users could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /users
+
+
+2021-12-26 17:23:08 Error: [Cake\Http\Exception\MissingControllerException] Controller class User could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /user
+
+
+2021-12-26 17:23:30 Error: [Cake\Database\Exception\DatabaseException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pweb2.users' doesn't exist in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Schema\Collection.php on line 142
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:100
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php:84
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\ORM\Table.php:513
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\ORM\Table.php:1703
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\ORM\Table.php:1264
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Auth\BaseAuthenticate.php:178
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Auth\BaseAuthenticate.php:106
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Auth\FormAuthenticate.php:87
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Component\AuthComponent.php:791
+- C:\laragon\www\cakephp-test\src\Controller\Admin\UsersController.php:25
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:531
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:164
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Caused by: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pweb2.users' doesn't exist in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php on line 39
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:39
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php:178
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php:74
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Connection.php:310
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Connection.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:140
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:100
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php:84
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\ORM\Table.php:513
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\ORM\Table.php:1703
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\ORM\Table.php:1264
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Auth\BaseAuthenticate.php:178
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Auth\BaseAuthenticate.php:106
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Auth\FormAuthenticate.php:87
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Component\AuthComponent.php:791
+- C:\laragon\www\cakephp-test\src\Controller\Admin\UsersController.php:25
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:531
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:164
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin
+Referer URL: http://localhost/cakephp-test/admin/users/login?redirect=%2Fadmin
+
+
+2021-12-26 17:44:17 Error: [ParseError] syntax error, unexpected '?>' in C:\laragon\www\cakephp-test\templates\Admin\Users\login.php on line 1
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:764
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin
+
+
+2021-12-26 17:44:27 Error: [ParseError] syntax error, unexpected '?>' in C:\laragon\www\cakephp-test\templates\Admin\Users\login.php on line 1
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:764
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin
+
+
+2021-12-26 17:44:29 Error: [Cake\Http\Exception\MissingControllerException] Controller class User could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /user
+
+
+2021-12-26 17:44:30 Error: [Cake\Http\Exception\MissingControllerException] Controller class Users could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /users
+
+
+2021-12-26 17:44:31 Error: [ParseError] syntax error, unexpected '?>' in C:\laragon\www\cakephp-test\templates\Admin\Users\login.php on line 1
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:764
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin%2F
+
+
+2021-12-26 17:47:14 Error: [ParseError] syntax error, unexpected '?>' in C:\laragon\www\cakephp-test\templates\layout\default.php on line 55
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:816
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:775
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin%2F
+
+
+2021-12-26 17:47:26 Error: [ParseError] syntax error, unexpected '?>' in C:\laragon\www\cakephp-test\templates\layout\default.php on line 56
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:816
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:775
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin%2F
+
+
+2021-12-26 19:55:53 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 19:55:53 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 19:55:54 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 20:04:18 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff2?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 20:04:18 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.woff?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 20:04:18 Error: [Cake\Http\Exception\MissingControllerException] Controller class Fonts could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Fonts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /fonts/fontawesome-webfont.ttf?v=4.7.0
+Referer URL: http://localhost/cakephp-test/css/font-awesome.min.css
+
+
+2021-12-26 20:09:39 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/style.css.map
+
+
+2021-12-26 20:09:39 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/bootstrap.css.map
+
+
+2021-12-26 20:16:38 Error: [RuntimeException] Unable to find table class for current entity. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\Form\EntityContext.php on line 151
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\Form\EntityContext.php:104
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\Form\ContextFactory.php:72
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\Form\ContextFactory.php:147
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php:2415
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php:376
+- C:\laragon\www\cakephp-test\templates\Admin\Users\login.php:1
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1176
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:764
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin
+
+
+2021-12-26 20:17:07 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/bootstrap.css.map
+
+
+2021-12-26 20:17:07 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/style.css.map
+
+
+2021-12-26 20:20:26 Error: [ParseError] syntax error, unexpected '?>' in C:\laragon\www\cakephp-test\templates\Admin\Users\login.php on line 1
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:764
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin
+
+
+2021-12-26 20:20:45 Error: [ParseError] syntax error, unexpected '?>' in C:\laragon\www\cakephp-test\templates\Admin\Users\login.php on line 1
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:764
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin
+
+
+2021-12-26 20:21:41 Error: [ParseError] syntax error, unexpected '?>' in C:\laragon\www\cakephp-test\templates\Admin\Users\login.php on line 1
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:764
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin
+
+
+2021-12-26 20:25:09 Error: [RuntimeException] No context provider found for value of type `string`. Use `null` as 1st argument of FormHelper::create() to create a context-less form. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\Form\ContextFactory.php on line 154
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php:2415
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php:376
+- C:\laragon\www\cakephp-test\templates\Admin\Users\login.php:10
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1176
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:764
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin
+
+
+2021-12-26 20:25:34 Error: [ParseError] syntax error, unexpected '?>' in C:\laragon\www\cakephp-test\templates\Admin\Users\login.php on line 1
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:764
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin
+
+
+2021-12-26 20:27:55 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/style.css.map
+
+
+2021-12-26 20:27:55 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/bootstrap.css.map
+
+
+2021-12-26 20:29:41 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/style.css.map
+
+
+2021-12-26 20:29:41 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/bootstrap.css.map
+
+
+2021-12-26 20:30:29 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/style.css.map
+
+
+2021-12-26 20:30:29 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/bootstrap.css.map
+
+
+2021-12-26 20:32:59 Error: [ParseError] syntax error, unexpected '?>' in C:\laragon\www\cakephp-test\templates\Admin\Users\login.php on line 1
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:1134
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\View\View.php:764
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:699
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\Controller.php:540
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:149
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /admin/users/login?redirect=%2Fadmin
+
+
+2021-12-26 20:33:21 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/bootstrap.css.map
+
+
+2021-12-26 20:33:21 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/style.css.map
+
+
+2021-12-26 20:34:47 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/style.css.map
+
+
+2021-12-26 20:34:47 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/bootstrap.css.map
+
+
+2021-12-26 20:41:41 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/bootstrap.css.map
+
+
+2021-12-26 20:41:41 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/style.css.map
+
+
+2021-12-26 20:46:52 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/bootstrap.css.map
+
+
+2021-12-26 20:46:52 Error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\laragon\www\cakephp-test\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\laragon\www\cakephp-test\webroot\index.php:40
+
+Request URL: /css/style.css.map
+
+
