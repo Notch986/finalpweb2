@@ -4,12 +4,11 @@ declare(strict_types=1);
 namespace App\Controller;
 
 /**
- * Categories Controller
+ * Locals Controller
  *
- * @property \App\Model\Table\CategoriesTable $Categories
- * @method \App\Model\Entity\Category[]|\Cake\Datasource\ResultSetInterface paginate($object = null, array $settings = [])
+ * @method \App\Model\Entity\Local[]|\Cake\Datasource\ResultSetInterface paginate($object = null, array $settings = [])
  */
-class CategoriesController extends AppController
+class LocalsController extends AppController
 {
     /**
      * Index method
@@ -18,25 +17,25 @@ class CategoriesController extends AppController
      */
     public function index()
     {
-        $categories = $this->paginate($this->Categories);
+        $locals = $this->paginate($this->Locals);
 
-        $this->set(compact('categories'));
+        $this->set(compact('locals'));
     }
 
     /**
      * View method
      *
-     * @param string|null $id Category id.
+     * @param string|null $id Local id.
      * @return \Cake\Http\Response|null|void Renders view
      * @throws \Cake\Datasource\Exception\RecordNotFoundException When record not found.
      */
     public function view($id = null)
     {
-        $category = $this->Categories->get($id, [
+        $local = $this->Locals->get($id, [
             'contain' => [],
         ]);
 
-        $this->set(compact('category'));
+        $this->set(compact('local'));
     }
 
     /**
@@ -46,58 +45,58 @@ class CategoriesController extends AppController
      */
     public function add()
     {
-        $category = $this->Categories->newEmptyEntity();
+        $local = $this->Locals->newEmptyEntity();
         if ($this->request->is('post')) {
-            $category = $this->Categories->patchEntity($category, $this->request->getData());
-            if ($this->Categories->save($category)) {
-                $this->Flash->success(__('The category has been saved.'));
+            $local = $this->Locals->patchEntity($local, $this->request->getData());
+            if ($this->Locals->save($local)) {
+                $this->Flash->success(__('The local has been saved.'));
 
                 return $this->redirect(['action' => 'index']);
             }
-            $this->Flash->error(__('The category could not be saved. Please, try again.'));
+            $this->Flash->error(__('The local could not be saved. Please, try again.'));
         }
-        $this->set(compact('category'));
+        $this->set(compact('local'));
     }
 
     /**
      * Edit method
      *
-     * @param string|null $id Category id.
+     * @param string|null $id Local id.
      * @return \Cake\Http\Response|null|void Redirects on successful edit, renders view otherwise.
      * @throws \Cake\Datasource\Exception\RecordNotFoundException When record not found.
      */
     public function edit($id = null)
     {
-        $category = $this->Categories->get($id, [
+        $local = $this->Locals->get($id, [
             'contain' => [],
         ]);
         if ($this->request->is(['patch', 'post', 'put'])) {
-            $category = $this->Categories->patchEntity($category, $this->request->getData());
-            if ($this->Categories->save($category)) {
-                $this->Flash->success(__('The category has been saved.'));
+            $local = $this->Locals->patchEntity($local, $this->request->getData());
+            if ($this->Locals->save($local)) {
+                $this->Flash->success(__('The local has been saved.'));
 
                 return $this->redirect(['action' => 'index']);
             }
-            $this->Flash->error(__('The category could not be saved. Please, try again.'));
+            $this->Flash->error(__('The local could not be saved. Please, try again.'));
         }
-        $this->set(compact('category'));
+        $this->set(compact('local'));
     }
 
     /**
      * Delete method
      *
-     * @param string|null $id Category id.
+     * @param string|null $id Local id.
      * @return \Cake\Http\Response|null|void Redirects to index.
      * @throws \Cake\Datasource\Exception\RecordNotFoundException When record not found.
      */
     public function delete($id = null)
     {
         $this->request->allowMethod(['post', 'delete']);
-        $category = $this->Categories->get($id);
-        if ($this->Categories->delete($category)) {
-            $this->Flash->success(__('The category has been deleted.'));
+        $local = $this->Locals->get($id);
+        if ($this->Locals->delete($local)) {
+            $this->Flash->success(__('The local has been deleted.'));
         } else {
-            $this->Flash->error(__('The category could not be deleted. Please, try again.'));
+            $this->Flash->error(__('The local could not be deleted. Please, try again.'));
         }
 
         return $this->redirect(['action' => 'index']);
