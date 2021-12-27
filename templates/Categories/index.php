@@ -8,8 +8,8 @@
     <?= $this->Html->link(__('New Category'), ['action' => 'add'], ['class' => 'button float-right']) ?>
     <h3><?= __('Categories') ?></h3>
     <div class="table-responsive">
-        <table>
-            <thead>
+        <table class="table table-hover table-condensed table-bordered">
+            <thead class="thead-light">
                 <tr>
                     <th><?= $this->Paginator->sort('ID') ?></th>
                     <th><?= $this->Paginator->sort('Name') ?></th>
@@ -45,6 +45,7 @@
             <?= $this->Paginator->next(__('next') . ' >') ?>
             <?= $this->Paginator->last(__('last') . ' >>') ?>
         </ul>
-        <p><?= $this->Paginator->counter(__('Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total')) ?></p>
+        <p><?= $this->Paginator->counter(__('Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total')) ?>
+        </p>
     </div>
 </div>

@@ -6,6 +6,7 @@ namespace App\Controller;
 /**
  * Products Controller
  *
+ * @property \App\Model\Table\ProductsTable $Products
  * @method \App\Model\Entity\Product[]|\Cake\Datasource\ResultSetInterface paginate($object = null, array $settings = [])
  */
 class ProductsController extends AppController
